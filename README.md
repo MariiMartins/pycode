@@ -1,1 +1,2 @@
-# pycodeCódigos Python de estudo
+# pycode
+Códigos Python de estudo
